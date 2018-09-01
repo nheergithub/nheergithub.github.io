@@ -1,18 +1,15 @@
-h1 {
-  color: #f46b42;
-  }
-  body{
-    color: #5c41f4
-    }
-    h1 {
-      background-color: #426493;
-      color: #ffffff;
-    }
-    body {
-      font-family: "Courier New", Courier, monospace;
-    }
-h1 {
-  font-family: Arial, Helvetica, sans-serif;
+
+
+body{color: #5c41f4;font-family: "Courier New", Courier, monospace;}
+
+
+
+h1 { color: #f46b42;
+font-family: Arial, Helvetica, sans-serif;
  background-color: #426493;
- color: #ffffff;
+ text-align: center;padding-bottom: 200px;
+    margin-bottom: 100;
+    margin-top: 200px;
 }
+
+.color{color:#00cc33;}
